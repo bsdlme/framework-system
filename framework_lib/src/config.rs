@@ -1,4 +1,6 @@
 use serde::Deserialize;
+use alloc::string::String;
+use alloc::vec::Vec;
 
 use crate::util;
 
